@@ -1,1 +1,3 @@
-# Tic-Tac-Toe-AI
+- Implemented a MinMaxTree algorithm in Java to create an AI for Tic-Tac-Toe.
+- The algorithm evaluates game states to determine the best move by simulating all possible moves and choosing the one that maximizes the AI's chances of winning or minimizing the opponent's chances.- Implemented a MinMaxTree algorithm in Java to create an AI for Tic-Tac-Toe. - The algorithm evaluates game states to determine the best move by simulating all possible moves and choosing the one that maximizes the AI's chances of winning or minimizing the opponent's chances.
+Skills: Java · Algorithms · Game AI · Object-Oriented Programming (OOP) · Game Development · Problem Solving · Graphical User Interface (GUI)
